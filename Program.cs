@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Libreria
+namespace Libreria //Hola
 {
-    class Autores
+    class Autores //Autores
     {
         private string nombre;
         private string nacionalidad;
